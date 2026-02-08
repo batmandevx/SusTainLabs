@@ -39,9 +39,7 @@ Our platform unifies renewable energy management with AI-powered insights, block
 
 ### Team Members:  
 - **Ayush Upadhyay** ([GitHub](https://github.com/Ayushdevx) | [LinkedIn](https://linkedin.com/in/ayushdevai) | AI & Backend Lead)  
-- **Shreyas Kumar** ([GitHub](https://github.com/shkshreyas) | [LinkedIn](https://linkedin.com/in/shkshreyas) | Frontend, App Dev & UI/UX Lead)  
-- **Amrithesh Menon** ([GitHub](https://github.com/im-Amrith) | [LinkedIn](https://www.linkedin.com/in/amrithesh-s-menon-1a2b86277) | Blockchain Integration Lead)  
-- **Punya Mittal** ([GitHub](https://github.com/Punyamittal) | [LinkedIn](https://www.linkedin.com/in/punya-mittal-a1122520b) | Data Science & Analytics Lead)
+
 
 ### Our Approach:  
 - We chose this problem because fragmented renewable energy systems limit rural economic development

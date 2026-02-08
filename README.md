@@ -428,5 +428,4 @@ python manage.py runserver
       <img src="https://img.shields.io/badge/YouTube-Watch_Demo-FF0000?style=for-the-badge&logo=youtube" alt="Watch Demo" height="40">
     </a>
   </div>
-  <p style="margin-top: 40px; color: #666; font-style: italic;">Built with 💚 by Team Single Coders</p>
 </div>
